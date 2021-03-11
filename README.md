@@ -28,7 +28,5 @@ homework question 1 (homework part 2)answers
 26. the body element is content of the document the is and the purpose is it's the main structure of the html document
 27. The h1 element represents the heading of the page content it's overall purpose is to describe the purpose of the page content 
 28. The p element represent the paragraph of text it often follows the h1 element and multiple p element are represented as a block of text and this block of text ae separated from adacent p element blocs of text are separated from adjacent p block element blocks of text by blank lines or a indent.
-
 29. UTF-8
-
 30. The viewport is the user's visible area of the web page. The viewport varies with different devices, and will be smaller on a mobile phone than on a computer screen. ```css 	<meta name="viewport" content="width=device-width, initial-scale=1.0">```
